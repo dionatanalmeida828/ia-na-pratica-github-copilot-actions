@@ -1,1 +1,13 @@
+{
+  "name": "ia-na-pratica-github-copilot-actions",
+  "version": "1.0.0",
+  "description": "Projeto acadêmico demonstrando uso de GitHub Copilot e GitHub Actions com testes automatizados",
+  "main": "src/pedido.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
 
